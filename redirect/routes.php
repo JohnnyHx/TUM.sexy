@@ -176,7 +176,7 @@ class Route {
         ],
         'gad'          => [
             'description' => 'Grundlegende Algorithmen und Datenstrukturen',
-            'target'      => 'http://campar.in.tum.de/Chair/TeachingSs18GAD',
+            'target'      => 'https://www.moodle.tum.de/course/view.php?id=40888',
         ],
         'linalg'          => [
             'description' => 'Lineare Algebra für Informatik',
